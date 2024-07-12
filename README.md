@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack projects<br>👯 I’m looking to collaborate on MERN Stack projects <br>🌱 I’m currently learning skills to leverage my coding skilld<br>
+🔭 I’m currently working on MERN Stack projects<br>👯 I’m looking to collaborate on MERN Stack projects <br>🌱 I’m currently learning skills to leverage my coding skills<br>
 
 
 ## 🌐 Socials:
